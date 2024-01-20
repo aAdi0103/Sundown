@@ -177,7 +177,7 @@ setTimeout(function(){
          })
          gsap.from("#cen-right h1 span",{
             opacity:0,
-            y:60,
+            y:50,
             stagger:0.5,
             duration:2
             })
